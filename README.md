@@ -3,11 +3,8 @@
 ## Test Automation with Selenium Web-Driver 
 
 
-When/Where:
-
 	* Wed, 07/29/2015 6:30pm
-	* @DesertPy meetup.
-	* ISOS Technology
+	* @DesertPy meetup
 	* Tempe, AZ
 
 Ref: 
