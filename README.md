@@ -8,4 +8,7 @@
 	* Tempe, AZ
 
 Ref: 
-http://www.evernote.com/l/AE6GrViQb5FKy4Uylaph2O0zHsN5eHWZyRg/
+
+* [DesertPy presentation](http://www.evernote.com/l/AE6GrViQb5FKy4Uylaph2O0zHsN5eHWZyRg/)
+
+* [YouTube tutorials](https://www.youtube.com/playlist?list=PLUY1lsOTtPeJNBuSweXS9pcSKbP4mr32S)
