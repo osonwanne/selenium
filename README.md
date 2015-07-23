@@ -1,6 +1,6 @@
-# Selenium IDE Firefox plugin & Web-Driver
+# Selenium 
 
-## Test Automation with Selenium Web-Driver in Python
+## Test Automation with Selenium Web-Driver 
 
 
 When/Where:
